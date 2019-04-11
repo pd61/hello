@@ -1,0 +1,16 @@
+http://codeforces.com/problemset/problem/1144/G
+
+mo 10-12 dbpro
+di 8-10 stochas
+12-2 reakts
+mi 8-10 stochas
+
+
+ki projekt 6ects wahlbereich?
+http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=verpublish&status=init&vmfile=no&publishid=220894&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+
+machine learning mit python
+http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=verpublish&status=init&vmfile=no&publishid=222014&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+
+machine learning  fachgebiet veranstaltungen
+http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=verpublish&publishContainer=lectureInstList&publishid=669
